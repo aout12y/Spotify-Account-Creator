@@ -1,0 +1,32 @@
+{
+    "settings": {
+        "Threads": 3,
+        "Create_Username": "y or n",
+		"Create_Avatar": "y or n",
+        "Use_Proxy": "y or n",
+        "Change_Avatar": "y or n",
+        "Debug_Mode": "if you are not a developer, do not touch this value!! (if you're going to change you can just do 'y')"
+    },
+	
+    "target_settings": {
+        "Use_Target": "y or n",
+        "Target_To": 10
+    },
+
+    "follow_ids": {
+        "Account_IDs": ["account id1", "account id2", "account id 3 (u can put as many as you want)"],
+        "Playlist_IDs": ["playlist id1", "playlist id2 (u can put as many as you want)"],
+        "Artist_IDs": ["artist id1", "artist id (u can put as many as you want)"]
+    },
+
+    "follow_types": {
+        "Profile": "y or n",
+        "Playlist": "y or n",
+        "Artist": "y or n"
+    },
+
+    "save_methods": {
+        "SQLite": "y or n",
+        "Text_File": "y or n"
+    }
+}
