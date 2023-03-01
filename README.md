@@ -30,11 +30,5 @@ https://user-images.githubusercontent.com/82868382/210181254-28da72a7-52c9-4bb1-
 
 4. Run `run.bat`
 
-  ### Or
-  
- 1. Click and watch the [video](https://streamable.com/v4ooti). 
- 
- 2. And do the same as in the video.
-
 ## ⚠️ DISCLAIMER
 This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.
